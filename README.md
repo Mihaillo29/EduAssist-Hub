@@ -5,7 +5,7 @@ EduAssist Hub is a comprehensive educational platform that leverages cutting-edg
 ## Key Features
 
 ### 1. StudyEase
-StudyEase offers seamless PDF navigation, allowing students to query their PDF content directly. No more back-and-forth between screens—ask questions, get answers, and focus on what matters.
+StudyEase offers seamless PDF navigation, allowing students to query their PDF content directly. No more back-and-forth between screens—ask questions with rag agent for your pdf, get answers, and focus on what matters.
 
 ![pdfmanager](https://github.com/user-attachments/assets/a39cd162-d672-4358-a8e2-48540d6548d3)
 
