@@ -27,11 +27,11 @@ The RAG (Retrieval-Augmented Generation) agent allows students to interact with 
 
 ## Work in Progress 🚧
 
-I am are continuously improving EduAssist Hub to provide an even more enhanced learning experience. Here's what I'm are currently working on:
+I am  continuously improving EduAssist Hub to provide an even more enhanced learning experience. Here's what I'm currently working on:
 
 - **RAG Agent Video Chat**: Expanding the RAG agent functionality to allow for dynamic question-answer interaction directly with videos. Students will be able to ask questions while watching the video, and the system will respond in real-time.
   
-- **Real-time Text Extraction from Videos**: We are developing a feature to extract and display text content inside videos in real-time. This will further assist students in getting immediate feedback from video learning materials.
+- **Real-time Text Extraction from Videos**: developing a feature to extract and display text content inside videos in real-time. This will further assist students in getting immediate feedback from video learning materials.
 
 Stay tuned for more updates and features!
 
